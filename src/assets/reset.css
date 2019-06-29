@@ -1,0 +1,46 @@
+.ivu-input:focus {
+    border-color: #333;
+    outline: 0;
+    box-shadow: none;
+}
+
+.ivu-input:hover {
+    border-color: #333;
+}
+.ivu-btn:focus {
+    box-shadow: none;
+}
+.ivu-btn-primary:focus {
+    box-shadow: none;
+}
+.ivu-btn-primary.active, .ivu-btn-primary:active {
+    color: #fff;
+    background-color: #333;
+    border-color: #333;
+}
+.ivu-btn-primary:hover {
+    color: #fff;
+    background-color: #333;
+    border-color: #333;
+}
+.ivu-btn-primary {
+    color: #fff;
+    background-color: #333;
+    border-color: #333;
+}
+.ivu-checkbox-checked:hover .ivu-checkbox-inner {
+    border-color: #333;
+}
+.ivu-checkbox-checked .ivu-checkbox-inner {
+    border-color: #333;
+    background-color: #333;
+}
+.ivu-checkbox-focus {
+    box-shadow: 0 0 0 2px rgba(51,51,51,.2);
+    z-index: 1;
+}
+/*.ivu-btn.active, .ivu-btn:active {
+    color: #2b85e4;
+    background-color: #fff;
+    border-color: #2b85e4;
+}*/
