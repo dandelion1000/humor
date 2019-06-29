@@ -32,4 +32,3 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 http://interface.36dian.top/apidoc/index.html#api-Bubble-del
 
 
-https://marktext.app/ ui不错，借鉴
