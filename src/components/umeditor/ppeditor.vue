@@ -28,7 +28,7 @@
                 ></div>
             </vue-tribute> -->
             <div class="editor-icon">
-                <Icon type="ios-code" @click="codeEdit" />
+                <!-- <Icon type="ios-code" @click="codeEdit" /> -->
                 <Icon type="ios-image" :class="{ 'opcity-half': preventImg }" @click="uploadImage" />
                 <input id="upload-file" type="file" accept="image/gif,image/jpeg,image/jpg,image/png,image/svg" @change="fileChange($event)">
             </div>
